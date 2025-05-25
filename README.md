@@ -30,7 +30,9 @@ Mirza, A., Alampara, N., Kunchapu, S. et al.
 Nicholas T. Runcie, Charlotte M. Deane, Fergus Imrie.  
 [arXiv:2505.07735 (2025)](https://doi.org/10.48550/arXiv.2505.07735) |  [code](https://github.com/oxpig/ChemIQ)  
 
-
+* **mCLM: A Function-Infused and Synthesis-Friendly Modular Chemical Language Model** [2025]  
+Nicholas T. Runcie, Charlotte M. Deane, Fergus Imrie.  
+[arXiv:2505.12565 (2025)](https://doi.org/10.48550/arXiv.2505.12565)  
 
 
 
