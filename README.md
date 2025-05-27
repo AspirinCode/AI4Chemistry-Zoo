@@ -22,6 +22,11 @@ Adrian Mirza, Nawaf Alampara, Martiño Ríos-García, Mohamed Abdelalim, Jack Bu
 
 
 
+
+* **Improving Chemical Understanding of LLMs via SMILES Parsing** [2025]  
+Yunhui Jang, Jaehyung Kim, Sungsoo Ahn.  
+[arXiv:2505.16340 (2025)](https://doi.org/10.48550/arXiv.2505.16340)  
+
 * **A framework for evaluating the chemical knowledge and reasoning abilities of large language models against the expertise of chemists** [2025]  
 Mirza, A., Alampara, N., Kunchapu, S. et al.  
 [Nat. Chem. (2025)](https://doi.org/10.1038/s41557-025-01815-x) |  [code](https://github.com/lamalab-org/chembench)  
